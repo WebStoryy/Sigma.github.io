@@ -622,6 +622,11 @@ iframe,embed,object {
     font-size: 90px;
     font-weight: 700;
 }
+.downloadNumber2{
+    font-size: 90px;
+    font-weight: 700;
+    font-style: italic;
+}
 /* features ---------------------------------------------------- */
 #features{
     background: #fff;
